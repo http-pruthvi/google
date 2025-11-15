@@ -1,0 +1,20 @@
+# StudyConcierge Requirements
+
+google-adk
+
+# Core dependencies
+asyncio
+logging
+datetime
+typing
+
+# For Jupyter notebook
+jupyter
+notebook
+
+# For testing (optional)
+pytest
+
+# For development
+black
+flake8

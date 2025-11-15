@@ -1,0 +1,52 @@
+# StudyConcierge Video Script (3 minutes)
+
+## Intro (10 seconds)
+"Hi, I'm Pruthvi, and this is StudyConcierge — a personal study automation agent built for the Google AI 5-Day Agents Intensive Capstone."
+
+## Problem (20 seconds)
+"Students spend too much time planning, summarizing, and organizing study work. It's mentally exhausting and inefficient."
+
+## Why Agents? (20 seconds)
+"Agents can reason, call tools, remember context, and automate multi-step workflows. Perfect for study automation."
+
+## Architecture (40 seconds)
+
+### Visual: Show architecture diagram
+"StudyConcierge uses a multi-agent system with four specialized agents:
+
+1. Planner agent - powered by Gemini
+2. Summarizer agent - with long-running PDF tasks
+3. Quiz agent - running in parallel
+4. Session manager - tracking progress
+
+All agents work with a Memory Bank and session memory, and use tools for search and PDF processing."
+
+## Demo (40 seconds)
+
+### Visual: Show notebook execution
+"In action, StudyConcierge works like this:
+
+First, a user uploads their syllabus and deadlines. The Planner Agent creates a personalized study schedule.
+
+Next, when they provide study materials, the Summarizer Agent processes PDFs or web content into concise summaries.
+
+Then, the Quiz Agent generates practice questions to reinforce learning.
+
+The system remembers past interactions, so it can suggest, 'Create a plan like last week' for consistency.
+
+All actions are tracked through sessions, and every step is logged for observability."
+
+## Build Overview (15 seconds)
+"I built StudyConcierge using ADK-Python, Google Search tool, Gemini 2.0 Flash, Memory Bank, long operations, and this Kaggle Notebook."
+
+## Closing (10 seconds)
+"This is StudyConcierge — my submission for the Concierge Track. Thank you!"
+
+## Visual Cues Throughout:
+
+1. Show architecture diagram during architecture explanation
+2. Display code snippets during demo
+3. Show output/results during demo
+4. Use icons/graphics for each agent and tool
+5. Highlight time-saving statistic (6-10 hours/week)
+6. Show memory and session features in action

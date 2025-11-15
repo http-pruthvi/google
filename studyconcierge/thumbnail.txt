@@ -1,0 +1,27 @@
+StudyConcierge Thumbnail Description:
+
+Visual Elements:
+- Brain icon or illustration representing AI/learning
+- Calendar or schedule icon for planning
+- Book or notebook icon for study materials
+- Multiple interconnected gears or circles representing multi-agent system
+- Search icon for web search functionality
+- Document icon for PDF processing
+- Memory chip or database icon for memory bank
+- Stopwatch or clock icon for time saving
+
+Color Scheme:
+- Blue tones for technology/trust
+- Green for learning/growth
+- Orange for energy/productivity
+- White space for clarity
+
+Text:
+"StudyConcierge"
+"AI-Powered Study Automation"
+"Save 6-10 Hours/Week"
+
+Layout:
+- Central brain/icon with connecting elements to surrounding features
+- Clean, modern design with clear typography
+- Professional yet approachable aesthetic
